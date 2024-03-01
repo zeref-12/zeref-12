@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeref-12&label=Profile%20views&color=0e75b6&style=flat" alt="zeref-12" /> </p>
 
-- 🔭 I’m currently working on *Full Stack end-end web apps*
+- 🔭 I’m currently working on Full Stack end-end web apps
 
-- 🌱 I’m currently learning *NextJs and Machine learning*
+- 🌱 I’m currently learning NextJs and Machine learning
 
-- 🧠 I enjoy problem solving and do LeetCode religiously. **https://leetcode.com/zeref12/*
+- 🧠 I enjoy problem solving and do LeetCode religiously. https://leetcode.com/zeref12/
 
-- 📫 Contact me at- *hithisisharsh12@gmail.com*
+- 📫 Contact me at- hithisisharsh12@gmail.com
 
 - 📄 My Resume [https://drive.google.com/file/d/1WPMzBwF3DTykTa_gayatSiKFvn1wRDBp/view?usp=sharing](https://drive.google.com/file/d/1WPMzBwF3DTykTa_gayatSiKFvn1wRDBp/view?usp=sharing)
 
-- 💪 *I like going to the gym and hiking *
+- 💪 I like going to the gym and hiking
 
 <h3 align="left">Socials:</h3>
 <p align="left">

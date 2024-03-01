@@ -1,21 +1,21 @@
 <h1 align="center">Hey, I'm Harshvardhan Pratap Singh</h1>
-<h3 align="center">A budding dev trying to make sense through this plethora of ever changing tech world.</h3>
+<h3 align="center">Full-Stack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeref-12&label=Profile%20views&color=0e75b6&style=flat" alt="zeref-12" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeref-12" alt="zeref-12" /></a> </p>
 
-- 🔭 I’m currently working on **Full Stack end-end web apps**
+- 🔭 I’m currently working on *Full Stack end-end web apps*
 
-- 🌱 I’m currently learning **NextJs and machine learning**
+- 🌱 I’m currently learning *NextJs and Machine learning*
 
-- I enjoy problem solving and do LeetCode religiously. **https://leetcode.com/zeref12/**
+- 🧠 I enjoy problem solving and do LeetCode religiously. **https://leetcode.com/zeref12/*
 
-- 📫 How to reach me **hithisisharsh12@gmail.com**
+- 📫 Contact me at- *hithisisharsh12@gmail.com*
 
 - 📄 My Resume [https://drive.google.com/file/d/1WPMzBwF3DTykTa_gayatSiKFvn1wRDBp/view?usp=sharing](https://drive.google.com/file/d/1WPMzBwF3DTykTa_gayatSiKFvn1wRDBp/view?usp=sharing)
 
-- ⚡ For fun **I go to the gym and read manga**
+- 💪 *I like going to the gym and hiking *
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

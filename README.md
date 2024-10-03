@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on Full Stack end-end web apps
 
-- 🌱 I’m currently learning NextJs and Machine learning
+- 🌱 I’m currently learning System Design and Machine learning
 
-- 🧠 I enjoy problem solving and do LeetCode religiously. https://leetcode.com/zeref12/
+- 🧠 I enjoy problem solving and do LeetCode for fun. https://leetcode.com/zeref12/
 
 - 📫 Contact me at- hithisisharsh12@gmail.com
 
-- 📄 My Resume [https://drive.google.com/file/d/1WPMzBwF3DTykTa_gayatSiKFvn1wRDBp/view?usp=sharing](https://drive.google.com/file/d/1WPMzBwF3DTykTa_gayatSiKFvn1wRDBp/view?usp=sharing)
+- 📄 My Resume [https://drive.google.com/file/d/1ASVZ2wjLc0R023hoR8e98p6oHoHVrZk_/view?usp=sharing](https://drive.google.com/file/d/1ASVZ2wjLc0R023hoR8e98p6oHoHVrZk_/view?usp=sharing)
 
-- 💪 I like going to the gym and hiking
+- 💪 I like going to the gym and reading non fictions.
 
 <h3 align="left">Socials:</h3>
 <p align="left">

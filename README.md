@@ -3,15 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeref-12&label=Profile%20views&color=0e75b6&style=flat" alt="zeref-12" /> </p>
 
-- 🔭 I’m currently working on Full Stack end-end web apps
-
-- 🌱 I’m currently learning System Design and Machine learning
+- 🌱 I’m currently learning System Design and DevOps.
 
 - 🧠 I enjoy problem solving and do LeetCode for fun. https://leetcode.com/zeref12/
 
 - 📫 Contact me at- hithisisharsh12@gmail.com
-
-- 📄 My Resume [https://drive.google.com/file/d/1ASVZ2wjLc0R023hoR8e98p6oHoHVrZk_/view?usp=sharing](https://drive.google.com/file/d/1ASVZ2wjLc0R023hoR8e98p6oHoHVrZk_/view?usp=sharing)
 
 - 💪 I like going to the gym and reading non fictions.
 

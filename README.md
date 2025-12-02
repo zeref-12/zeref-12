@@ -6,11 +6,9 @@
 
 - 🌱 I’m currently learning System Design and DevOps
 
-- 🧠 I enjoy problem solving and do LeetCode for fun. https://leetcode.com/zeref12/
+- 🧠 I'm a full stack engineer with an year of experience in cloud and infrastructure monitoring, integrations and making beautiful seamless dashboards and UX pages
 
 - 📫 Contact me at- hithisisharsh12@gmail.com
-
-- 💪 I like going to the gym and reading non fictions.
 
 <h3 align="left">Socials:</h3>
 <p align="left">
